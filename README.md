@@ -30,5 +30,5 @@
 <h1></h1>
 
 [![Linkedin](https://img.shields.io/badge/-Pedro_Henrique-399d70?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-sb/)](https://linkedin.com/in/pedro-henrique-sb)
-[![Instagram](https://img.shields.io/badge/-pedro__henrique__silva__b-399d70?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/pedro_henrique_silva_b/)](https://www.instagram.com/pedro_henrique_silva_b/)
+[![Instagram](https://img.shields.io/badge/-pedro__henrique__silva__b-399d70?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/pedro_bezerra_dev_freelancer/)](https://www.instagram.com/pedro_bezerra_dev_freelancer/)
 [![E-mail](https://img.shields.io/badge/-pyter.dev@gmail.com-399d70?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pyter.dev@gmail.com)](mailto:pyter.dev@gmail.com)
