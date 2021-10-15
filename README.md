@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/pedro-henrique-sb"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro-henrique-sb&count_private=true&show_icons=true&theme=vue-dark&bg_color=121212&text_color=C5C5C5"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-henrique-sb&layout=compact&theme=vue-dark&bg_color=121212&text_color=C5C5C5"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro-henrique-sb&count_private=true&show_icons=true&theme=vue-dark&bg_color=121212&text_color=41B883&border_color=404040&icon_color=404040&title_color=404040&border_radius=5"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-henrique-sb&layout=compact&theme=vue-dark&bg_color=121212&text_color=41B883&border_color=404040&icon_color=404040&title_color=404040&border_radius=5"/>
 </div>
 
 ## Technologies I can use
